@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+form {
+  margin-top: 10px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input[type="submit"],
+button {
+  margin-top: 20px;
+}
+
+#userSignUpForm p,
+#adminLoginForm p {
+  margin-top: 10px;
+}
+
+#userDashboard,
+#adminDashboard {
+  margin-top: 20px;
+}
+
+#logoutButton,
+#adminLogoutButton {
+  margin-bottom: 10px;
+}
+
+#centreDetails,
+#dosageDetails {
+  margin-top: 10px;
+}
+
+#removeCentreMessage {
+  margin-top: 10px;
+  font-weight: bold;
+}
